@@ -1,6 +1,6 @@
 # Haneen_Portofolio
 
-## Project 1: Handwritten Digit Recognition Algorithm 
+## [Project 1: Handwritten Digit Recognition Algorithm] (https://github.com/HaneenAmrMohamed/MNIST-Project/tree/main)
 - Utilized MNIST dataset, which provides a large collection of handwritten digit images.
 - Standardized image pixel values to a common range to improve model performance.
 - Constructed a deep neural network architecture.
